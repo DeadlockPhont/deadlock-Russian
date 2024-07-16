@@ -32,5 +32,9 @@ Telegram: https://t.me/deadlockboom
 
 Также есть лаунчер, который  обновляет файлы игры и будет обновлять автоматически файлы игры в скрытом режиме.
 Называется DeadlockX - скачать также можно в репозитории.
+![AlEbsgGpTBM](https://github.com/user-attachments/assets/48de3c5d-5b27-47a3-93e4-e546935b5cfe)
+
 
 Присоединяйтесь к нам, сделаем игру лучше вместе с Вами!
+
+#Deadlock #Steam #valve
