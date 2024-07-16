@@ -1,8 +1,12 @@
 Эта ветка помогает людям переводить игру на русский язык. 
 Если есть вопросы, то присоединяйтесь к нашему сообществу: 
+
 Discord: https://discord.com/invite/byrtAhkYV7 
+
 Вконтакте: https://vk.com/deadlockrus
+
 Telegram: https://t.me/deadlockboom
+
 Перевод и исходники взяты с форума deadlock.ru (форум по игре Deadlock)
 
 
